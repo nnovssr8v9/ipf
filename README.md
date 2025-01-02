@@ -1,6 +1,6 @@
-vpn-proxy-service : VPN & Proxy Service
-captcha-solver : Captcha Solver
-sms-verification-service : SMS Verification Service
-automation-tool : Automation Tool
-account-store : Account Store
-affiliate-network : Affiliate Network
+vpn-proxy-service : VPN & Proxy Service <br>
+captcha-solver : Captcha Solver <br>
+sms-verification-service : SMS Verification Service <br>
+automation-tool : Automation Tool <br>
+account-store : Account Store <br>
+affiliate-network : Affiliate Network <br>
