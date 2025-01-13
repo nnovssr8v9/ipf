@@ -1,0 +1,20 @@
+{
+  "partners": [
+    {
+      "id": "iproyal",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/iproyal.png",
+      "name": "IPRoyal",
+      "description": "Premium proxies, 34M+ IPs, lightning speeds, and 99.9% uptime at unbeatable prices.",
+      "description_vi": "Proxy chất lượng, hơn 34 triệu IP, tốc độ siêu nhanh, tỷ lệ live lên tới 99,9% với giá cực tốt.",
+      "description_zh": "高质量代理，34M+ IP，超快速度，99.9%正常运行时间，价格优越.",
+      "description_es": "Proxy de calidad, 34M+ IP, velocidad ultrarrápida, 99.9% uptime y precios increíbles.",
+      "description_ru": "Прокси высокого качества, 34M+ IP, сверхбыстрая скорость, 99,9% uptime и отличные цены.",
+      "url": "https://iproyal.com/?r=HIDEMYACC",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "HIDEMYACC5",
+      "favorite": false,
+      "color_background": "rgba(62, 219, 231, 0.10)"
+    }
+  ]
+}
