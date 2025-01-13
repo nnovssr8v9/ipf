@@ -337,7 +337,6 @@
       "color_background": "#FBECF9"
     },
 
-
     {
       "id": "capsolver",
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/capsolver.png",
@@ -403,7 +402,6 @@
       "color_background": "rgba(160, 3, 34, 0.15)"
     },
 
-
     {
       "id": "smsverified",
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/smsverified.png",
@@ -440,7 +438,7 @@
       "id": "smsman",
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/smsman.png",
       "name": "SMS-Man",
-      "description": "Flexible virtual number rental for 90 days or one-time code for 1000+ services, websites, apps from $0.05/activation.",
+      "description": "",
       "description_vi": "Linh hoạt lựa chọn thuê số ảo trong 90 ngày hoặc mã một lần cho 1000+ dịch vụ, website, app từ $0.05/activation.",
       "description_zh": "灵活租用虚拟号码90天或一次性验证码，适用于1000+服务、网站、应用，从$0.05/激活.",
       "description_es": "Alquiler flexible de números virtuales por 90 días o código único para 1000+ servicios, sitios y aplicaciones desde $0.05/activación.",
