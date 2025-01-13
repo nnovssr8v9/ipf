@@ -30,8 +30,7 @@
       "tag": "vpn-proxy-service",
       "promo_code": "",
       "favorite": false,
-      "color_background": "rgba(242, 119, 148, 0.10)",
-      "language": "en"
+      "color_background": "rgba(242, 119, 148, 0.10)"
     },
     {
       "id": "simplynode",
@@ -47,8 +46,7 @@
       "tag": "vpn-proxy-service",
       "promo_code": "HIDEMYACC25",
       "favorite": false,
-      "color_background": "rgba(0, 0, 0, 0.05)",
-      "language": "en"
+      "color_background": "rgba(0, 0, 0, 0.05)"
     },
     {
       "id": "lunaproxy",
@@ -64,8 +62,7 @@
       "tag": "vpn-proxy-service",
       "promo_code": "HIDEMYACC",
       "favorite": false,
-      "color_background": "rgba(0, 96, 250, 0.1)",
-      "language": "en"
+      "color_background": "rgba(0, 96, 250, 0.1)"
     },
     {
       "id": "922proxy",
@@ -81,8 +78,7 @@
       "tag": "vpn-proxy-service",
       "promo_code": "HIDEMYACC2023",
       "favorite": false,
-      "color_background": "rgba(244, 104, 92, 0.1)",
-      "language": "en"
+      "color_background": "rgba(244, 104, 92, 0.1)"
     },
     {
       "id": "9proxy",
@@ -98,8 +94,7 @@
       "tag": "vpn-proxy-service",
       "promo_code": "9P_HIDEMYACC",
       "favorite": false,
-      "color_background": "rgba(55, 136, 236, 0.25)",
-      "language": "en"
+      "color_background": "rgba(55, 136, 236, 0.25)"
     },
     {
       "id": "proxysio",
@@ -115,8 +110,7 @@
       "tag": "vpn-proxy-service",
       "promo_code": "HIDEMYACC_5",
       "favorite": false,
-      "color_background": "rgba(201, 72, 25, 0.25)",
-      "language": "en"
+      "color_background": "rgba(201, 72, 25, 0.25)"
     },
     {
       "id": "cherryproxy",
@@ -132,8 +126,7 @@
       "tag": "vpn-proxy-service",
       "promo_code": "HIDEMYACC",
       "favorite": false,
-      "color_background": "rgba(74, 124, 255, 0.1)",
-      "language": "en"
+      "color_background": "rgba(74, 124, 255, 0.1)"
     },
     {
       "id": "Proxycc",
@@ -149,9 +142,202 @@
       "tag": "vpn-proxy-service",
       "promo_code": "",
       "favorite": false,
-      "color_background": "rgba(101, 101, 255, 0.1)",
-      "language": "en"
+      "color_background": "rgba(101, 101, 255, 0.1)"
     },
+    {
+      "id": "BestProxy",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-Best-Proxy.png",
+      "name": "Best Proxy",
+      "description": "Dynamic & static residential proxies, unlimited bandwidth, and data center proxies across 200+ countries.",
+      "description_vi": "Proxy dân cư tĩnh và động, không giới hạn data, lựa chọn IP thuộc hơn 200 quốc gia.",
+      "description_zh": "动态和静态住宅代理，无限带宽，数据中心代理，覆盖200多个国家.",
+      "description_es": "Proxies residenciales dinámicos y estáticos, ancho de banda ilimitado y proxies de centros de datos en más de 200 países.",
+      "description_ru": "Динамические и статические жилые прокси, неограниченная пропускная способность и прокси-серверы дата-центров в более чем 200 странах.",
+      "url": "https://bestproxy.com/register/?invitation_code=PJYA0A",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "",
+      "favorite": false,
+      "color_background": "#F0EBFF"
+    },
+    {
+      "id": "Shopsocks5",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-Shopsocks5.png",
+      "name": "Shopsocks5",
+      "description": "The most competitive pricing in the SOCKS5 proxy service industry, attracting a large user base.",
+      "description_vi": "Chuyên cung cấp proxy SOCKS5 giá cả cạnh tranh, với hơn 200 triệu IP dân cư từ hơn 190 quốc gia",
+      "description_zh": "专业提供竞争力价格的SOCKS5代理，拥有来自190多个国家的超过2亿个住宅IP",
+      "description_es": "Proveedor especializado en proxies SOCKS5 a precios competitivos, con más de 200 millones de IP residenciales de más de 190 países",
+      "description_ru": "Специализируемся на предоставлении прокси SOCKS5 по конкурентоспособным ценам, с более чем 200 миллионами жилых IP из более чем 190 стран",
+      "url": "https://shopsocks5.com/register.html?invite_code=44E6SSWG",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "",
+      "favorite": false,
+      "color_background": "#EEE3B9"
+    },
+    {
+      "id": "NimbleWay",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-Nimble-Way.png",
+      "name": "Nimble Way",
+      "description": "Rotating and sticky residential proxies for anonymous data scraping or browsing.",
+      "description_vi": "Cung cấp proxy dân cư tĩnh và xoay chuyên dành cho cào dữ liệu và lướt web ẩn danh",
+      "description_zh": "提供专门用于数据抓取和匿名浏览的静态和旋转住宅代理",
+      "description_es": "Proveedores de proxies residenciales estáticos y rotativos, especializados en raspado de datos y navegación anónima",
+      "description_ru": "Предоставляем статические и ротирующиеся жилые прокси, специально предназначенные для сбора данных и анонимного серфинга в Интернете",
+      "url": "https://tracking.nimbleway.com/SH5Q",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "",
+      "favorite": false,
+      "color_background": "#EEF0FF"
+    },
+    {
+      "id": "711Proxy",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-711-Proxy.png",
+      "name": "711 Proxy",
+      "description": "Premium and affordable proxy services with 50M+ ethically sourced IPs, offering stability at just $0.7/GB.",
+      "description_vi": "Hơn 50 triệu IP chất lượng, chính thống, ổn định với giá chỉ từ 0.7$/GB",
+      "description_zh": "超过5000万个优质、正规、稳定的IP，价格仅从0.7$/GB起",
+      "description_es": "Más de 50 millones de IP de alta calidad, legítimas y estables, con precios desde solo 0,7$/GB",
+      "description_ru": "Более 50 миллионов качественных, легитимных и стабильных IP по цене всего от 0,7$/GB",
+      "url": "https://www.711proxy.com/signup?code=352EBD",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "",
+      "favorite": false,
+      "color_background": "#E6F0FC"
+    },
+    {
+      "id": "Asocks",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-Asocks.png",
+      "name": "Asocks",
+      "description": "Mobile proxy with 7M+ IPs, 99.7% connection success, 150+ locations, and 100,000+ satisfied customers worldwide",
+      "description_vi": "Cung cấp mobile proxy chất lượng với hơn 7 triệu IP của 150 địa điểm, tỷ lệ live 99.7%",
+      "description_zh": "提供优质的移动代理，拥有超过700万个来自150个地点的IP，在线率99.7%",
+      "description_es": "Proveedores de proxies móviles de alta calidad con más de 7 millones de IP de 150 ubicaciones, con una tasa de disponibilidad del 99,7%",
+      "description_ru": "Предоставляем качественные мобильные прокси с более чем 7 миллионами IP из 150 локаций, с гарантированным рабочим временем 99,7%",
+      "url": "https://asocks.com/?c=HIDEMYSOCKS",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "HIDEMYACC11",
+      "favorite": false,
+      "color_background": "#F5F4FE"
+    },
+    {
+      "id": "IPFoxy",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-IPFoxy.png",
+      "name": "711 Proxy",
+      "description": "50M+ high-quality IPs in 200+ countries, with 99.9% uptime, and solutions for diverse business needs",
+      "description_vi": "Hơn 50M+ IP chất lượng trên 200 quốc gia, đảm bảo tỷ lệ live 99,9%, phù hợp với mọi quy mô doanh nghiệp",
+      "description_zh": "超过5000万个优质IP，覆盖200多个国家，确保99.9%的在线率，适用于所有规模的企业",
+      "description_es": "Más de 50 millones de IP de alta calidad en más de 200 países, garantizando una tasa de disponibilidad del 99,9%, adecuado para empresas de cualquier tamaño",
+      "description_ru": "Более 50 миллионов качественных IP в более чем 200 странах, гарантированная скорость работы 99,9%, подходит для бизнеса любого масштаба",
+      "url": "https://referral.ipfoxy.com/HIDEMYACC",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "hidemyacc",
+      "favorite": false,
+      "color_background": "#EAF8FD"
+    },
+    {
+      "id": "Databay",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-Databay.png",
+      "name": "Databay",
+      "description": "Residential, mobile, and datacenter proxies with a powerful API, covering 195+ countries, precise location targeting, and IP rotation per request",
+      "description_vi": "Đa dạng các loại proxy phủ gần 200 quốc gia, tùy chọn khu vực và tạo request xoay IP",
+      "description_zh": "提供多种代理类型，覆盖近200个国家，支持区域选择和IP轮换请求",
+      "description_es": "Diversidad de tipos de proxies que cubren casi 200 países, con opciones de ubicación y creación de solicitudes con rotación de IP",
+      "description_ru": "Разнообразие типов прокси, охватывающих почти 200 стран, с возможностью выбора региона и создания запросов с ротацией IP",
+      "url": "https://databay.com/r/A946C0F/",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "HIDEMYACC",
+      "favorite": false,
+      "color_background": "#E9F7FF"
+    },
+    {
+      "id": "AnonymousProxies",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-Anonymous-Proxies.png",
+      "name": "Anonymous Proxies",
+      "description": "Cheap SOCKS5 and HTTP proxies, available in dedicated or shared, residential or non-residential options",
+      "description_vi": "Proxy datacenter và dân cư giá rẻ, tùy chọn share hoặc private chỉ từ 0.7$/tháng",
+      "description_zh": "价格实惠的数据中心和住宅代理，提供共享或专用选项，仅从0.7$/月起",
+      "description_es": "Proxies de centro de datos y residenciales a precios bajos, con opciones compartidas o privadas, desde solo 0,7$/mes",
+      "description_ru": "Недорогие дата-центр и жилые прокси, с опциями общих или приватных, начиная от 0,7$/месяц",
+      "url": "https://anonymous-proxies.net/?code=F96CF4D2DB971ADA5428BADF43531944",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "hidemyacc",
+      "favorite": false,
+      "color_background": "#FFEBFF"
+    },
+    {
+      "id": "LTEsocks",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-LTE-socks.png",
+      "name": "LTE socks",
+      "description": "Mobile proxies powered by thousands of LTE/5G devices and AI-driven, fault-tolerant cores for 99.9% uptime and seamless connections",
+      "description_vi": "Chuyên cung cấp các loại mobile proxy thu phát liên tục từ hàng ngàn thiết bị ltesocks thực, đảm bảo thời gian live 99.9%",
+      "description_zh": "专业提供从数千个真实LTE设备连续提供的移动代理，确保99.9%的在线时间",
+      "description_es": "Proveedor especializado en proxies móviles que ofrecen conexión continua desde miles de dispositivos LTE reales, garantizando un tiempo de actividad del 99,9%",
+      "description_ru": "Специализируемся на предоставлении мобильных прокси с постоянным подключением от тысяч реальных LTE-устройств, гарантируя время работы 99,9%",
+      "url": "https://my.ltesocks.io/#/register?promo=HidemyaccAntidetect",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "Hidemyacc10",
+      "favorite": false,
+      "color_background": "#EAF7FC"
+    },
+    {
+      "id": "ProxySale",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-Proxy-Sale.png",
+      "name": "Proxy Sale",
+      "description": "High-speed IPv4/IPv6 proxies with HTTP(s) & Socks5, 24/7 support, and reliable IPs from global providers",
+      "description_vi": "Top nhà cung cấp đa dạng các loại proxy chất lượng, có tính ổn định cao",
+      "description_zh": "顶级供应商，提供各种优质且稳定性高的代理",
+      "description_es": "Principales proveedores de proxies de alta calidad y alta estabilidad",
+      "description_ru": "Топовые поставщики разнообразных качественных прокси с высокой стабильностью",
+      "url": "https://proxy-sale.com/?partner_link=MHMPG4hYLF",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "HIDEMYACC",
+      "favorite": false,
+      "color_background": "#FFFAEA"
+    },
+    {
+      "id": "ProxyCove",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-Proxy-Cove.png",
+      "name": "Proxy Cove",
+      "description": "High-speed proxies for seamless browsing, flexible IP rotation, enhanced security, pay-per-use, HTTP(S) & SOCKS5 support, and 99.9% uptime",
+      "description_vi": "Proxy tốc độ cao, lựa chọn xoay linh hoạt, đảm bảo thời gian live 99.9%",
+      "description_zh": "高速代理，灵活的旋转选择，确保99.9%的在线时间",
+      "description_es": "Proxies de alta velocidad, con opciones de rotación flexibles, garantizando un tiempo de actividad del 99,9%",
+      "description_ru": "Высокоскоростные прокси с гибкими опциями ротации, гарантированное время работы 99,9%",
+      "url": "https://proxycove.com/?ref=44HGG4",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "PROMOHIDEMYACC",
+      "favorite": false,
+      "color_background": "#E6EDFF"
+    },
+    {
+      "id": "Infatica",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-Infatica.png",
+      "name": "Infatica",
+      "description": "A large pool of high-quality residential IP addresses, datacenter, and mobile proxies and scraper API service",
+      "description_vi": "Proxy dân cư, datacenter, mobile proxy chất lượng với IP pool lớn, cung cấp thêm API cho cào dữ liệu",
+      "description_zh": "优质的住宅代理、数据中心代理和移动代理，拥有庞大的IP池，并提供数据抓取API",
+      "description_es": "Proxies residenciales, de centro de datos y móviles de alta calidad con una gran piscina de IP, además de proporcionar API para raspado de datos",
+      "description_ru": "Качественные жилые, дата-центр и мобильные прокси с большим пулом IP, а также предоставление API для сбора данных",
+      "url": "https://dashboard.infatica.io/aff.php?aff=338",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "",
+      "favorite": false,
+      "color_background": "#FBECF9"
+    },
+
+
     {
       "id": "capsolver",
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/capsolver.png",
@@ -166,8 +352,7 @@
       "tag": "captcha-solver",
       "promo_code": "",
       "favorite": false,
-      "color_background": "rgba(105, 211, 112, 0.1)",
-      "language": "en"
+      "color_background": "rgba(105, 211, 112, 0.1)"
     },
     {
       "id": "nextcaptcha",
@@ -183,8 +368,7 @@
       "tag": "captcha-solver",
       "promo_code": "",
       "favorite": false,
-      "color_background": "rgba(232, 162, 91, 0.1)",
-      "language": "en"
+      "color_background": "rgba(232, 162, 91, 0.1)"
     },
     {
       "id": "2captcha",
@@ -200,8 +384,7 @@
       "tag": "captcha-solver",
       "promo_code": "",
       "favorite": false,
-      "color_background": "rgba(59, 187, 168, 0.1)",
-      "language": "en"
+      "color_background": "rgba(59, 187, 168, 0.1)"
     },
     {
       "id": "capchasio",
@@ -217,9 +400,10 @@
       "tag": "captcha-solver",
       "promo_code": "",
       "favorite": false,
-      "color_background": "rgba(160, 3, 34, 0.15)",
-      "language": "en"
+      "color_background": "rgba(160, 3, 34, 0.15)"
     },
+
+
     {
       "id": "smsverified",
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/smsverified.png",
@@ -234,8 +418,7 @@
       "tag": "sms-verification-service",
       "promo_code": "",
       "favorite": false,
-      "color_background": "rgba(172, 106, 255, 0.1)",
-      "language": "en"
+      "color_background": "rgba(172, 106, 255, 0.1)"
     },
     {
       "id": "smsactivate",
@@ -251,8 +434,7 @@
       "tag": "sms-verification-service",
       "promo_code": "",
       "favorite": false,
-      "color_background": "rgba(221, 116, 50, 0.1)",
-      "language": "en"
+      "color_background": "rgba(221, 116, 50, 0.1)"
     },
     {
       "id": "smsman",
@@ -268,8 +450,7 @@
       "tag": "sms-verification-service",
       "promo_code": "",
       "favorite": false,
-      "color_background": "rgba(4, 114, 245, 0.1)",
-      "language": "en"
+      "color_background": "rgba(4, 114, 245, 0.1)"
     }
   ]
 }
