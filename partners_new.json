@@ -110,7 +110,7 @@
       "tag": "vpn-proxy-service",
       "promo_code": "HIDEMYACC_5",
       "favorite": false,
-      "color_background": "rgba(201, 72, 25, 0.25)"
+      "color_background": "#DCF1D1"
     },
     {
       "id": "cherryproxy",
@@ -227,7 +227,7 @@
     {
       "id": "IPFoxy",
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-IPFoxy.png",
-      "name": "711 Proxy",
+      "name": "IPFoxy",
       "description": "50M+ high-quality IPs in 200+ countries, with 99.9% uptime, and solutions for diverse business needs",
       "description_vi": "Hơn 50M+ IP chất lượng trên 200 quốc gia, đảm bảo tỷ lệ live 99,9%, phù hợp với mọi quy mô doanh nghiệp",
       "description_zh": "超过5000万个优质IP，覆盖200多个国家，确保99.9%的在线率，适用于所有规模的企业",
@@ -419,7 +419,7 @@
     {
       "id": "NodeMaven",
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-NodeMaven.png",
-      "name": "PrivateProxy.me",
+      "name": "NodeMaven",
       "description": "95%+ clean residential IPs, super sticky sessions up to 24 hours, 1400+ cities across 150+ countries",
       "description_vi": "Hơn 95% IP dân cư sạch, phủ hơn 1400 thành phố tại hơn 150 quốc gia",
       "description_zh": "1超过95%的干净住宅IP，覆盖150多个国家的1400多个城市。",
@@ -446,7 +446,7 @@
       "tag": "vpn-proxy-service",
       "promo_code": "",
       "favorite": false,
-      "color_background": "#BFD4FB"
+      "color_background": "#FFE5D8"
     },
     {
       "id": "CoProxy",
@@ -465,9 +465,25 @@
       "color_background": "#E9EAF4"
     },
     {
+      "id": "Tab Proxy",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-Tab-Proxy.png",
+      "name": "Tab Proxy",
+      "description": "Premium residential proxies with 200M+ IPs in 195 countries, offering unlimited sub-accounts, bandwidth, and concurrency",
+      "description_vi": "Proxy dân cư cao cấp với hơn 200 triệu IP tại 195 quốc gia, thêm tài khoản phụ không giới hạn",
+      "description_zh": "高端住宅代理，提供2亿多个IP，覆盖195个国家，支持无限子账户。",
+      "description_es": "Proxies residenciales premium con más de 200 millones de IPs en 195 países, cuentas secundarias ilimitadas.",
+      "description_ru": "Премиум-жилые прокси с более чем 200 миллионами IP в 195 странах, неограниченное количество субаккаунтов.",
+      "url": "https://tabproxy.com/?code=ABKV4EOY",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "HIDEMYACC",
+      "favorite": false,
+      "color_background": "#FFF9E6"
+    },
+    {
       "id": "Na Proxy",
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-Na-Proxy.png",
-      "name": "Tab Proxy",
+      "name": "Na Proxy",
       "description": "90M+ ethical residential IPs, country/city targeting, 99.5% uptime, and 24/7 support",
       "description_vi": "Hơn 90 triệu IP dân cư nguồn gốc rõ ràng, cho chọn quốc gia/thành phố, tỷ lệ live 99.5%,hỗ trợ 24/7.",
       "description_zh": "超过9000万个具有明确来源的住宅IP，支持国家/城市选择，99.5%的在线率，24/7支持。",
