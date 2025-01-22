@@ -206,7 +206,7 @@
       "tag": "vpn-proxy-service",
       "promo_code": "",
       "favorite": false,
-      "color_background": "#E6F0FC"
+      "color_background": "#66A1E9"
     },
     {
       "id": "Asocks",
@@ -911,6 +911,38 @@
       "promo_code": "HIDEMYACC",
       "favorite": false,
       "color_background": "#FFCCCC"
+    },
+    {
+      "id": "SwiftProxy",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-SwiftProxy.png",
+      "name": "SwiftProxy",
+      "description": "Premier global proxy provider, offering over 80 million residential proxies and static residential proxies, covering more than 220 regions worldwide",
+      "description_vi": "Proxy chất lượng với hơn 80 triệu proxy dân cư và proxy dân cư tĩnh, phủ hơn 220 khu vực trên toàn thế giới.",
+      "description_zh": "高质量代理，提供超过8000万个住宅代理和静态住宅代理，覆盖全球220多个地区。",
+      "description_es": "Proxies de alta calidad con más de 80 millones de proxies residenciales y proxies residenciales estáticos, cubriendo más de 220 regiones en todo el mundo.",
+      "description_ru": "Высококачественные прокси с более чем 80 миллионами жилых прокси и статических жилых прокси, охватывающими более 220 регионов по всему миру.",
+      "url": "https://www.swiftproxy.net/?code=QTNYKL346",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "HIDEMYACC10",
+      "favorite": false,
+      "color_background": "#F3FBFD"
+    },
+    {
+      "id": "IPCOLA",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-IPCOLA.png",
+      "name": "IPCOLA",
+      "description": "100M+ active IPs, 99.9% uptime, ~0.1s response time, and unlimited concurrent sessions with global coverage",
+      "description_vi": "Hơn 100 triệu IP phủ toàn cầu, tỷ lệ uptime 99.9%, thời gian phản hồi ~0.1s, không giới hạn session cùng truy cập",
+      "description_zh": "超过1亿个IP，覆盖全球，99.9%的在线率，响应时间约0.1秒，无限制会话和访问",
+      "description_es": "Más de 100 millones de IPs cubriendo todo el mundo, 99.9% de tiempo de actividad, tiempo de respuesta ~0.1s, sesiones y accesos ilimitados",
+      "description_ru": "Более 100 миллионов IP по всему миру, время работы 99.9%, время отклика ~0.1с, неограниченные сессии и доступ",
+      "url": "https://dashboard.ipcola.com/register?referral_code=jmmskoiqsyrubtb",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "",
+      "favorite": false,
+      "color_background": "#EDECFA"
     },
 
 
