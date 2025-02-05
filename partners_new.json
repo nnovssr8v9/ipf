@@ -944,6 +944,38 @@
       "favorite": false,
       "color_background": "#EDECFA"
     },
+    {
+      "id": "Proxytrail",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-Proxytrail.png",
+      "name": "Proxytrail",
+      "description": "Anonymous and secure proxies with speeds of up to 100 Mbps, supporting HTTP(s) and SOCKS4/5 protocols.",
+      "description_vi": "Proxy ẩn danh tốt, tốc độ nhanh lên tới 100mps, hỗ trợ cả HTTP(s) và SOCKS4/5",
+      "description_zh": "匿名和安全的代理，速度最高可达100 Mbps，支持HTTP(s)和SOCKS4/5协议",
+      "description_es": "Proxies anónimos y seguros con velocidades de hasta 100 Mbps, que admiten los protocolos HTTP(s) y SOCKS4/5",
+      "description_ru": "Анонимные и безопасные прокси с скоростью до 100 Мбит/с, поддерживающие протоколы HTTP(s) и SOCKS4/5",
+      "url": "https://proxytrail.com/ru/",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "HIDEMYACC",
+      "favorite": false,
+      "color_background": "#F0F5F9"
+    },
+    {
+      "id": "ProxyShare",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-ProxyShare.png",
+      "name": "Proxy Share",
+      "description": "75M+ residential proxies, connect to country or city level locations around the world",
+      "description_vi": "Hơn 75 triệu IP cư dân chất lượng cao, phủ hầu hết các quốc gia và thành phố trên toàn thế giới",
+      "description_zh": "超过 7500 万个高质量住宅 IP，覆盖全球大多数国家和城市",
+      "description_es": "Más de 75 millones de IP residenciales de alta calidad, que cubren la mayoría de los países y ciudades en todo el mundo",
+      "description_ru": "Более 75 миллионов высококачественных резидентских IP, охватывающих большинство стран и городов по всему миру",
+      "url": "https://www.proxyshare.com/?invitation_code=E1PW44",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "HIDEMYACC",
+      "favorite": false,
+      "color_background": "#EFF0FF"
+    },
 
 
     {
@@ -1059,6 +1091,24 @@
       "promo_code": "",
       "favorite": false,
       "color_background": "rgba(4, 114, 245, 0.1)"
+    },
+
+
+    {
+      "id": "Revenuelab",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-Revenuelab.png",
+      "name": "Revenuelab",
+      "description": "RevenueLab is a CPA network designed to help businesses enhance their revenue streams and achieve sustainable growth",
+      "description_vi": "RevenueLab là nền tảng CPA marketing giúp doanh nghiệp tối ưu hóa nguồn doanh thu và đạt được tăng trưởng bền vững",
+      "description_zh": "RevenueLab 是一个 CPA 网络，旨在帮助企业优化收入来源并实现可持续增长",
+      "description_es": "RevenueLab es una red CPA diseñada para ayudar a las empresas a mejorar sus fuentes de ingresos y lograr un crecimiento sostenible",
+      "description_ru": "RevenueLab - это CPA-сеть, разработанная для помощи бизнесу в увеличении доходов и достижении устойчивого роста",
+      "url": "https://revenuelab.biz/?utm_source=hidemyacc&utm_medium=partnersblock&utm_campaign=crosspromo",
+      "is_display": true,
+      "tag": "affiliate-network",
+      "promo_code": "",
+      "favorite": false,
+      "color_background": "#B3B3B3"
     }
   ]
 }
