@@ -1040,6 +1040,38 @@
       "favorite": false,
       "color_background": "#EAF6FF"
     },
+    {
+      "id": "novada",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-novada.png",
+      "name": "Novada",
+      "description": "A wide range of proxy solutions, including residential proxies, ISP proxies, and datacenter proxies, across over 220 locations worldwide, suitable for various needs",
+      "description_vi": "Cung cấp đa dạng các giải pháp proxy gồm proxy dân cư, proxy ISP và proxy trung tâm dữ liệu trên 220 vị trí toàn thế giới, phù hợp với nhiều nhu cầu khác nhau.",
+      "description_zh": "我们提供多种代理解决方案，包括住宅代理、ISP代理和数据中心代理，覆盖全球超过220个位置，适用于各种需求。",
+      "description_es": "Ofrecemos una amplia gama de soluciones proxy, incluyendo proxies residenciales, proxies ISP y proxies de centro de datos, en más de 220 ubicaciones en todo el mundo, adecuadas para diversas necesidades.",
+      "description_ru": "Мы предоставляем широкий спектр решений прокси, включая прокси для частных пользователей, ISP-прокси и дата-центр прокси, более чем в 220 локациях по всему миру, подходящих для различных нужд.",
+      "url": "https://www.novada.com/?hidemyacc",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "Hidemyacc",
+      "favorite": false,
+      "color_background": "#F6EFFF"
+    },
+    {
+      "id": "MangoProxy",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-Mango-Proxy.png",
+      "name": "Mango Proxy",
+      "description": "Large IP pool, high-speed performance, available in over 200 countries with more than 90 million IP addresses, and pricing starting from just $0.5 per 1GB.",
+      "description_vi": "IP pool lớn, tốc độ cao, có sẵn ở hơn 200 quốc gia với hơn 90 triệu địa chỉ IP và mức giá chỉ từ $0.5 cho 1GB.",
+      "description_zh": "大量 IP 池，高速性能，覆盖超过 200 个国家，拥有超过 9000 万个 IP 地址，价格仅从每 1GB $0.5 起",
+      "description_es": "Gran grupo de IP, alto rendimiento, disponible en más de 200 países con más de 90 millones de direcciones IP y precios a partir de solo $0.5 por 1GB.",
+      "description_ru": "Большие пуллы IP, высокоскоростная работа, доступные в более чем 200 странах с более чем 90 миллионами IP-адресов, и цена всего от $0,5 за 1 ГБ.",
+      "url": "https://dashboard.mangoproxy.com/signup?ref=HIDEMYACC",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "HIDEMYACC",
+      "favorite": false,
+      "color_background": "#FFFCEF"
+    },
 
 
     {
