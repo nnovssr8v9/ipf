@@ -1072,7 +1072,86 @@
       "favorite": false,
       "color_background": "#FFFCEF"
     },
-
+    {
+      "id": "QuarkIP",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-QuarkIP.png",
+      "name": "QuarkIP",
+      "description": "Residential and datacenter proxies with 50M+ residential IPs from 200+ locations, 100% exclusive, high speed, competitive prices, and 24/7 support.",
+      "description_vi": "Proxy dân cư và datacenter với hơn 50 triệu IP dân cư từ 200+ vùng địa lý, 100% độc quyền, tốc độ cao, giá cạnh tranh, hỗ trợ 24/7.",
+      "description_zh": "住宅代理和数据中心代理，拥有来自 200+ 地区的超过 5000 万个住宅 IP，100% 独享，高速，价格优惠，提供 24/7 支持。",
+      "description_es": "Proxies residenciales y de centro de datos con más de 50 millones de IP residenciales de 200+ ubicaciones, 100% exclusivas, alta velocidad, precios competitivos y soporte 24/7.",
+      "description_ru": "Резидентные и дата-центровые прокси с более чем 50 миллионами резидентных IP из 200+ регионов, 100% эксклюзивные, высокая скорость, конкурентные цены, поддержка 24/7.",
+      "url": "https://www.quarkip.com/?utm_source=Hidemyacc",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "",
+      "favorite": false,
+      "color_background": "#242D99"
+    },
+    {
+      "id": "Rapidproxy",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-Rapidproxy.png",
+      "name": "Rapidproxy",
+      "description": "90+ million clean residential IPs, supporting HTTP(S)/SOCKS5, 99.99% uptime, city-level location targeting, with free trial available.",
+      "description_vi": "90+ triệu IP dân cư sạch, hỗ trợ HTTP(S)/SOCKS5, uptime 99,99%, chọn location theo thành phố, có dùng thử miễn phí.",
+      "description_zh": "9000万+干净的住宅IP，支持HTTP(S)/SOCKS5，99.99%在线率，可按城市选择位置，提供免费试用。",
+      "description_es": "Más de 90 millones de IP residenciales limpias, compatibles con HTTP(S)/SOCKS5, 99,99% de tiempo activo, selección de ubicación por ciudad, con prueba gratuita disponible.",
+      "description_ru": "Более 90 миллионов чистых резидентных IP, поддержка HTTP(S)/SOCKS5, аптайм 99,99%, выбор локации по городам, бесплатный пробный период.",
+      "url": "https://www.rapidproxy.io/?code=3E94JWLKA",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "HIDEMYACC10",
+      "favorite": false,
+      "color_background": "#FFE8DE"
+    },
+    {
+      "id": "MoMoProxy",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-MoMoProxy.png",
+      "name": "MoMoProxy",
+      "description": "Fast and reliable 150 million+ residential proxies from 200+ locations. 0.48s response time, 99.96% uptime. 1GB free!",
+      "description_vi": "Hơn 150 triệu proxy dân cư tốc độ cao và ổn định từ 200+ vị trí, thời gian phản hồi 0,48 giây, uptime 99,96%. Tặng 1GB miễn phí!",
+      "description_zh": "来自200+地区的1.5亿+快速且稳定的住宅代理，响应时间0.48秒，99.96%在线率。赠送1GB免费流量！",
+      "description_es": "Más de 150 millones de proxies residenciales rápidos y fiables de 200+ ubicaciones, tiempo de respuesta de 0,48 s, 99,96% de tiempo activo. ¡1 GB gratis!",
+      "description_ru": "Более 150 миллионов быстрых и надежных резидентных прокси из 200+ локаций, время отклика 0,48 сек, аптайм 99,96%. 1 ГБ бесплатно!",
+      "url": "https://momoproxy.com?code=4710w7",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "HIDEMYACC",
+      "favorite": false,
+      "color_background": "#FFE8DE"
+    },
+    {
+      "id": "Croxy",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-Croxy.png",
+      "name": "Croxy",
+      "description": "Access a premium proxy pool with 80M+ IPs, 7,800 high-speed servers across 195+ countries, and dynamic IPs for fast, anonymous web scraping.",
+      "description_vi": "Hơn 80 triệu IP, 7.800 máy chủ tốc độ cao tại 195+ quốc gia và IP động để thu thập dữ liệu web nhanh chóng và ẩn danh.",
+      "description_zh": "访问一个拥有超过8000万个IP、7800台高速服务器覆盖195个以上国家和地区的高级代理池，支持快速、匿名的网页抓取",
+      "description_es": "Accede a una red de proxies premium con más de 80 millones de IPs, 7.800 servidores de alta velocidad en más de 195 países y direcciones IP dinámicas para una recolección de datos web rápida y anónima.",
+      "description_ru": "Получите доступ к премиум-прокси с более чем 80 миллионами IP-адресов, 7800 высокоскоростными серверами в более чем 195 странах и динамическими IP для быстрого и анонимного веб-скрейпинга.",
+      "url": "https://croxy.com/register/?invitation_code=28YWT8",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "HIDEMYACC10",
+      "favorite": false,
+      "color_background": "#DFE8FF"
+    },
+    {
+      "id": "OmegaProxy",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-OmegaProxy.png",
+      "name": "OmegaProxy",
+      "description": "Rotating residential proxies from a pool of 90M+ IPs in 220+ country and city-level regions around the world.",
+      "description_vi": "Cung cấp proxy dân cư xoay với hơn 90 triệu IP từ hơn 220 location trên toàn thế giới",
+      "description_zh": "来自超过 9000 万个 IP 地址池的旋转住宅代理，覆盖全球 220 多个国家和城市级地区。",
+      "description_es": "Proxies residenciales rotativos de un pool de más de 90 millones de IPs en más de 220 países y regiones a nivel de ciudad en todo el mundo.",
+      "description_ru": "Прокси-серверы с вращением из пула более 90 миллионов IP-адресов в 220+ странах и регионах на уровне городов по всему миру.",
+      "url": "https://www.omegaproxy.com/?invitation_code=HIDEMYACC",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "HIDEMYACC10",
+      "favorite": false,
+      "color_background": "#EEEDFF"
+    },
 
     {
       "id": "capsolver",
@@ -1139,7 +1218,6 @@
       "color_background": "rgba(160, 3, 34, 0.15)"
     },
 
-
     {
       "id": "smsverified",
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/smsverified.png",
@@ -1189,7 +1267,6 @@
       "color_background": "rgba(4, 114, 245, 0.1)"
     },
 
-
     {
       "id": "Revenuelab",
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-Revenuelab.png",
@@ -1206,6 +1283,5 @@
       "favorite": false,
       "color_background": "#B3B3B3"
     }
-
   ]
 }
