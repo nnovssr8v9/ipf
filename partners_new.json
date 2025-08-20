@@ -1152,6 +1152,22 @@
       "favorite": false,
       "color_background": "#EEEDFF"
     },
+    {
+      "id": "Proxyma",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-Proxyma.png",
+      "name": "Proxyma",
+      "description": "Static and dynamic proxies with over 60 million residential IPs worldwide, 99% uptime, and 24/7 support",
+      "description_vi": "Cung cấp proxy tĩnh và dynamic proxy với hơn 60 triệu IP cư dân trên toàn thế giới, uptime 99%, hỗ trợ 24/7",
+      "description_zh": "提供静态和动态代理，拥有全球超过 6000 万个住宅 IP，99% 在线率，全天候 24/7 支持。",
+      "description_es": "Ofrecemos proxies estáticos y dinámicos con más de 60 millones de IP residenciales en todo el mundo, 99% de tiempo activo y soporte 24/7.",
+      "description_ru": "Предоставляем статические и динамические прокси с более чем 60 миллионами резидентных IP-адресов по всему миру, 99% аптайм, поддержка 24/7.",
+      "url": "https://cabinet.proxyma.io/register?ref=RZeT0QBqpF413A8r",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "HMA30",
+      "favorite": false,
+      "color_background": "#AED4FF"
+    },
 
     {
       "id": "capsolver",
