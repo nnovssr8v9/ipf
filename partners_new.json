@@ -1168,6 +1168,38 @@
       "favorite": false,
       "color_background": "#AED4FF"
     },
+    {
+      "id": "Coronium",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-Coronium.png",
+      "name": "Coronium",
+      "description": "High-trust mobile proxies from real carriers. Manage multiple accounts, scrape data reliably, and verify ads with 99.5% uptime and 24/7 support",
+      "description_vi": "Proxy di động 4G/5G/LTE cao cấp với IP nhà mạng thật, độ tin cậy cao, băng thông không giới hạn và phủ sóng hơn 30 quốc gia, 99.5% uptime, hỗ trợ 24/7",
+      "description_zh": "来自真实运营商的高可信度移动代理。可靠管理多个账户、抓取数据，并以 99.5% 在线率和 24/7 支持验证广告。",
+      "description_es": "Proxies móviles de alta confianza de operadores reales. Administra múltiples cuentas, extrae datos de forma confiable y verifica anuncios con 99.5% de tiempo en línea y soporte 24/7.",
+      "description_ru": "Высоконадёжные мобильные прокси от реальных операторов. Управляйте несколькими аккаунтами, собирайте данные надёжно и проверяйте рекламу с аптаймом 99.5% и поддержкой 24/7.",
+      "url": "https://dashboard.coronium.io/en/sign-up#f95c2a6f2e8d90937289513c78ab52ab",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "HIDEMYACC",
+      "favorite": false,
+      "color_background": "#EBEBEB"
+    },
+    {
+      "id": "KeyProxy",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-KeyProxy.png",
+      "name": "Key Proxy",
+      "description": "Reliable mobile proxies with fast IP rotation, advanced tools, and over 50 global locations to ensure high uptime.",
+      "description_vi": "Proxy di động đáng tin cậy với khả năng xoay IP nhanh, công cụ nâng cao và hơn 50 địa điểm toàn cầu, đảm bảo uptime cao và tự động hóa mượt mà.",
+      "description_zh": "KeyProxy 提供可靠的移动代理，具备快速 IP 轮换、先进工具以及遍布全球 50 多个地点，确保高在线率和流畅的自动化。",
+      "description_es": "KeyProxy ofrece proxies móviles confiables con rotación rápida de IP, herramientas avanzadas y más de 50 ubicaciones globales para garantizar alta disponibilidad y automatización fluida.",
+      "description_ru": "KeyProxy предоставляет надежные мобильные прокси с быстрой ротацией IP, продвинутыми инструментами и более чем 50 локациями по всему миру для высокой стабильности и автоматизации.",
+      "url": "https://dashboard.coronium.io/en/sign-up#f95c2a6f2e8d90937289513c78ab52ab",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "HIDEMYACC",
+      "favorite": false,
+      "color_background": "#B4C5FB"
+    },
 
     {
       "id": "capsolver",
