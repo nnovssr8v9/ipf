@@ -1200,6 +1200,22 @@
       "favorite": false,
       "color_background": "#B4C5FB"
     },
+    {
+      "id": "ProxyWing",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-ProxyWing.png",
+      "name": "ProxyWing",
+      "description": "Premium private proxy provider. 70M+ IP, 190+ countries. ISP, DC and residential proxies.",
+      "description_vi": "Cung cấp proxy private chất lượng cao với hơn 70 triệu địa chỉ IP tại hơn 190 quốc gia. Hỗ trợ ISP, proxy trung tâm dữ liệu và proxy dân cư.",
+      "description_zh": "提供高质量的私人代理服务，覆盖190多个国家，拥有超过7000万个IP地址。支持 ISP、数据中心代理和住宅代理。",
+      "description_es": "Ofrecemos proxies privados de alta calidad con más de 70 millones de direcciones IP en más de 190 países. Soporte para proxies ISP, de centros de datos y residenciales.",
+      "description_ru": "Предоставляем высококачественные приватные прокси с более чем 70 млн IP-адресов в 190+ странах. Поддерживаются ISP, дата-центровые и резидентные прокси.",
+      "url": "https://dashboard.proxywing.com/billing/aff.php?aff=1594",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "HIDEMYACC",
+      "favorite": false,
+      "color_background": "#FFE5F3"
+    },
 
     {
       "id": "capsolver",
