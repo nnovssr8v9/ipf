@@ -1,12 +1,12 @@
 {
-    "homepage": [
-        {
-             "url": "https://www.youtube.com/watch?v=QH2-TGUlwu4",
-             "image": "https://blogger.googleusercontent.com/img/a/AVvXsEhy1aRSlehZTLXqSOuciCJVmvYmjeDZdnXOygwjBno6AQX4EXP2TjF-di1m8uZyd24cF3yXh6_qIpEwLac0K9TKjLTMpV3uhihmD9nl6Dl9h9RHAHmZV-iKajsYQk2gPp8pGaljpqTYXGbEsxall6fMXGRdIWUI2SKagLAOOIpBMrKUaWpsOLdxh5jO4FQ"
-        },
-       {
-             "url": "https://www.youtube.com/watch?v=QH2-TGUlwu4",
-             "image": "https://blogger.googleusercontent.com/img/a/AVvXsEgmLQqVWvMHuDRcWD4sF7lyJDXeYWccLp1n6DtSdp497BSSb3DLxw6v6LWU4C3K0wz1NNfuwJ6jB0YkaXUf-jJaAfMkYsjCusHiHLhzolebw1MIKDM5MwXdMV2gvnvzVfoN7xeeu0Vw8JKtga0Mlkk2wepA6GL-FPnWVnxmmeLI3K9t5-ujM_Mbi_yKZIw=w400-h100"
-       }
-    ]
+  "homepage": [
+    {
+      "url": "https://www.youtube.com/watch?v=QH2-TGUlwu4",
+      "image": "https://raw.githubusercontent.com/nnovssr8v9/ipf/refs/heads/main/banner_images/banner_hero_section.png"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=QH2-TGUlwu4",
+      "image": "https://blogger.googleusercontent.com/img/a/AVvXsEgmLQqVWvMHuDRcWD4sF7lyJDXeYWccLp1n6DtSdp497BSSb3DLxw6v6LWU4C3K0wz1NNfuwJ6jB0YkaXUf-jJaAfMkYsjCusHiHLhzolebw1MIKDM5MwXdMV2gvnvzVfoN7xeeu0Vw8JKtga0Mlkk2wepA6GL-FPnWVnxmmeLI3K9t5-ujM_Mbi_yKZIw=w400-h100"
+    }
+  ]
 }
