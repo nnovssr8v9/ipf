@@ -1281,6 +1281,22 @@
       "favorite": false,
       "color_background": "rgba(160, 3, 34, 0.15)"
     },
+    {
+      "id": "Captcha-ai",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/Captcha-ai.png",
+      "name": "Captcha AI",
+      "description": "Automated captcha solving solution with AI-powered. Experience high-speed, high-accuracy captcha solving like never before! Special Deals for Hidemyacc Users: Up 15% off",
+      "description_vi": "Giải pháp giải mã captcha tự động với AI. Trải nghiệm giải mã captcha tốc độ cao, độ chính xác cao hơn bao giờ hết! Ưu đãi giảm upto 15% dành cho user của Hidemyacc",
+      "description_zh": "人工智能驱动的自动验证码破解解决方案。体验前所未有的高速、高精度验证码破解！hidemyacc 用户专享优惠：最高可享 15% 折扣",
+      "description_es": "Solución automatizada de decodificación de captcha con IA. ¡Experimenta una decodificación de captcha rápida y precisa como nunca antes! Hasta un 15 % de descuento para usuarios de Hidemyacc.",
+      "description_ru": "Автоматизированное решение для расшифровки капчи с использованием ИИ. Оцените высокоскоростную и высокоточную расшифровку капчи, как никогда раньше! Скидка до 15% для пользователей Hidemyacc.",
+      "url": "https://captchaai.com/?from=275010",
+      "is_display": true,
+      "tag": "captcha-solver",
+      "promo_code": "",
+      "favorite": false,
+      "color_background": "#FFE9EB"
+    },
 
     {
       "id": "smsverified",
