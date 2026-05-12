@@ -23,14 +23,14 @@
             "image": "",
             "images": {
                 "background": "linear-gradient(0deg, #080D79 0%, #031282 100%)",
-                "image": "https://raw.githubusercontent.com/nnovssr8v9/ipf/refs/heads/main/images/become-our-partner.png"
+                "image": "https://raw.githubusercontent.com/nnovssr8v9/ipf/refs/heads/main/images/become-our-partner-top.png"
             }
             
         },
         {
             "description": "Banner dưới Fingerprint score",
             "url": "",
-            "image": "https://raw.githubusercontent.com/nnovssr8v9/ipf/refs/heads/main/images/become-our-partner-top.png"
+            "image": "https://raw.githubusercontent.com/nnovssr8v9/ipf/refs/heads/main/images/become-our-partner.png"
         }
     ]
 }
