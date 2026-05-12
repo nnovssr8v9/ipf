@@ -1,12 +1,36 @@
 {
     "homepage": [
         {
-            "url": "https://www.youtube.com/watch?v=QH2-TGUlwu4",
-            "image": "https://d3design.vn/uploads/Anh_bia_summer_sale_holiday_podium_display_on_yellow_background.jpg"
+            "description": "Banner top header",
+            "url": "",
+            "image": "",
+            "images": {
+                "background": "https://raw.githubusercontent.com/nnovssr8v9/ipf/refs/heads/main/images/telegram-bot-bg.png",
+                "image": "https://raw.githubusercontent.com/nnovssr8v9/ipf/refs/heads/main/images/telegram-bot.png"
+            }
+            
         },
         {
-            "url": "https://www.youtube.com/watch?v=QH2-TGUlwu4",
-            "image": "https://d3design.vn/uploads/7138970.jpg"
+            "description": "Banner dưới Fingerprint score",
+            "url": "",
+            "image": "https://raw.githubusercontent.com/nnovssr8v9/ipf/refs/heads/main/images/telegram-bot-banner.png"
+        }
+    ],
+    "coupons": [
+        {
+            "description": "Banner top header",
+            "url": "",
+            "image": "",
+            "images": {
+                "background": "linear-gradient(0deg, #080D79 0%, #031282 100%)",
+                "image": "https://raw.githubusercontent.com/nnovssr8v9/ipf/refs/heads/main/images/become-our-partner.png"
+            }
+            
+        },
+        {
+            "description": "Banner dưới Fingerprint score",
+            "url": "",
+            "image": "https://raw.githubusercontent.com/nnovssr8v9/ipf/refs/heads/main/images/become-our-partner-top.png"
         }
     ]
 }
