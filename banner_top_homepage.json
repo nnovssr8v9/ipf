@@ -2,7 +2,7 @@
     "homepage": [
         {
             "description": "Banner top header",
-            "url": "",
+            "url": "https://t.me/detect_anything_bot",
             "image": "",
             "images": {
                 "background": "https://raw.githubusercontent.com/nnovssr8v9/ipf/refs/heads/main/images/telegram-bot-bg.png",
@@ -12,7 +12,7 @@
         },
         {
             "description": "Banner dưới Fingerprint score",
-            "url": "",
+            "url": "https://t.me/detect_anything_bot",
             "image": "https://raw.githubusercontent.com/nnovssr8v9/ipf/refs/heads/main/images/telegram-bot-banner.png"
         }
     ],
