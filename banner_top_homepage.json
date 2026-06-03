@@ -8,7 +8,7 @@
                 "image": "https://raw.githubusercontent.com/nnovssr8v9/ipf/refs/heads/main/banner_images/telegram-bot.gif",
                 "image-mobile": "https://raw.githubusercontent.com/nnovssr8v9/ipf/refs/heads/main/banner_images/telegram-bot-banner.png"
             },
-            "styles": ["transform-origin: top center;"]
+            "styles": ["", "transform-origin: top center;"]
         },
         {
             "description": "Banner dưới Fingerprint score",
