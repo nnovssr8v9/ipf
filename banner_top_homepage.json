@@ -4,9 +4,9 @@
       "description": "Banner top header",
       "url": "https://t.me/ipfighter_ip_checker_bot",
       "images": {
-        "background": "https://raw.githubusercontent.com/nnovssr8v9/ipf/refs/heads/main/banner_images/telegram-bot-bg.png",
-        "image": "https://raw.githubusercontent.com/nnovssr8v9/ipf/refs/heads/main/banner_images/telegram-bot.gif",
-        "image-mobile": "https://raw.githubusercontent.com/nnovssr8v9/ipf/refs/heads/main/banner_images/telegram-bot-banner.png"
+        "background": "",
+        "image": "",
+        "image-mobile": ""
       },
       "styles": ["", "transform-origin: top center;"]
     },
