@@ -19,32 +19,6 @@
       "description": "class banner-ads",
       "url": "http://promo.hidemyacc.com/?utm_source=ipfighter&utm_medium=banner-1",
       "image": ""
-    },
-    {
-      "description": "banner 1, 2",
-      "images": [
-        {
-          "image":"",
-          "url": ""
-        },
-        {
-          "image":"",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "description": "banner 3, 4",
-      "images": [
-        {
-          "image":"",
-          "url": ""
-        },
-        {
-          "image":"",
-          "url": ""
-        }
-      ]
     }
   ]
 }
