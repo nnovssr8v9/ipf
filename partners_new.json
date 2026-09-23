@@ -1185,6 +1185,22 @@
       "color_background": "#F0FAFF"
     },
     {
+      "id": "Okkproxy",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-Okkproxy.png",
+      "name": "Okkproxy",
+      "description": "OkkProxy offers reliable residential, mobile, ISP, and datacenter proxies across 190+ countries for scraping and automation.",
+      "description_vi": "OkkProxy cung cấp proxy dân cư, di động, ISP và datacenter đáng tin cậy tại hơn 190 quốc gia, phục vụ cho scraping và automation.",
+      "description_zh": "OkkProxy 提供覆盖190多个国家/地区的可靠住宅代理、移动代理、ISP代理及数据中心代理,适用于抓取和自动化任务。",
+      "description_es": "OkkProxy ofrece proxies residenciales, móviles, de ISP y de centro de datos fiables en más de 190 países, ideales para scraping y automatización.",
+      "description_ru": "OkkProxy предоставляет надёжные резидентные, мобильные, ISP и дата-центровые прокси более чем в 190 странах для скрапинга и автоматизации.",
+      "url": "https://okkproxy.com/?utm_source=hidemyacc&utm_medium=hidemyacc&ref=hidemyacc",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "PAY2",
+      "favorite": false,
+      "color_background": "#F4F0FF"
+    },
+    {
       "id": "IPCook",
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-IPCook.png",
       "name": "IPCook",
