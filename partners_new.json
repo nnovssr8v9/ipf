@@ -1168,6 +1168,70 @@
       "favorite": false,
       "color_background": "#E9ECFB"
     },
+    {
+      "id": "NiuProxy",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-NiuProxy.png",
+      "name": "NiuProxy",
+      "description": "NiuProxy provides reliable rotating residential, mobile, ISP, and datacenter proxies across 190+ countries for web data tasks.",
+      "description_vi": "NiuProxy cung cấp proxy dân cư xoay, di động, ISP và datacenter đáng tin cậy tại hơn 190 quốc gia, phục vụ cho các tác vụ dữ liệu web.",
+      "description_zh": "NiuProxy 提供覆盖190多个国家/地区的可靠轮换住宅代理、移动代理、ISP代理及数据中心代理,适用于各类网络数据任务。",
+      "description_es": "NiuProxy ofrece proxies residenciales rotativos, móviles, de ISP y de centro de datos fiables en más de 190 países para tareas de datos web.",
+      "description_ru": "NiuProxy предоставляет надёжные ротационные резидентные, мобильные, ISP и дата-центровые прокси более чем в 190 странах для задач по работе с веб-данными.",
+      "url": "https://niuproxy.com/?utm_source=hidemyacc&utm_medium=hidemyacc&ref=hidemyacc",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "PAY2",
+      "favorite": false,
+      "color_background": "#F0FAFF"
+    },
+    {
+      "id": "IPCook",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-IPCook.png",
+      "name": "IPCook",
+      "description": "IPcook provides global IP coverage, 99.9%uptime, and low-latency connections for seamless account management.",
+      "description_vi": "IPcook cung cấp IP tianf cầu với độ trễ thấp, thời gian hoạt động 99.9%, giúp bạn quản lý tài khoản hiệu quả.",
+      "description_zh": "IPcook 提供全球IP覆盖、99.9%的正常运行时间,以及低延迟连接,实现无缝的账号管理。",
+      "description_es": "IPcook ofrece cobertura de IP a nivel mundial, un 99,9% de tiempo de actividad y conexiones de baja latencia para una gestión de cuentas fluida.",
+      "description_ru": "IPcook обеспечивает глобальное покрытие IP-адресов, время безотказной работы 99,9% и низколатентные соединения для беспроблемного управления аккаунтом.",
+      "url": "https://www.ipcook.com/?ref=hidemyacc&utm_source=hidemyacc&utm_medium=referral&utm_campaign=partner",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "HIDEMYACC10",
+      "favorite": false,
+      "color_background": "#E9F8F5"
+    },
+    {
+      "id": "ProxyEmpire",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-ProxyEmpire.png",
+      "name": "ProxyEmpire",
+      "description": "Top-tier residential, mobile, and datacenter proxies with 9.5M+ IPs in 170+ countries for seamless scaling",
+      "description_vi": "Nhà cung cấp proxy dân cư, mobile và datacenter chất lượng cao với hơn 9.5 triệu địa chỉ IP tại hơn 170 quốc gia",
+      "description_zh": "顶级住宅代理、移动代理和数据中心代理，覆盖 170+ 个国家、950 万+ IP，助力业务无缝扩展。",
+      "description_es": "Proxies residenciales, móviles y de centros de datos de primera calidad, con más de 9,5 millones de IPs en 170+ países para escalar sin interrupciones.",
+      "description_ru": "Премиальные резидентские, мобильные и дата-центровые прокси — более 9,5 млн IP в 170+ странах для бесштабного масштабирования.",
+      "url": "https://proxyempire.io/?ref=oty2ogm",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "hidemyacc30",
+      "favorite": false,
+      "color_background": "#FEF2F5"
+    },
+    {
+      "id": "KindProxy",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-KindProxy.png",
+      "name": "KindProxy",
+      "description": "Clean residential proxies and Static ISP IP solutions for SEO, e-commerce, social media, and automation workflows.",
+      "description_vi": "Cung cấp proxy dân cư sạch và proxy ISP tĩnh, phù hợp với nhiều tác vụ như SEO, Ecommerce, Social Media hay Automation.",
+      "description_zh": "纯净住宅代理与静态ISP IP解决方案，适用于SEO、电商、社交媒体及自动化工作流程。",
+      "description_es": "Proxies residenciales limpios y soluciones de IP ISP estáticas para SEO, comercio electrónico, redes sociales y flujos de trabajo de automatización.",
+      "description_ru": "Чистые резидентные прокси и статические ISP IP-адреса для SEO, электронной коммерции, социальных сетей и автоматизации рабочих процессов.",
+      "url": "https://www.kindproxy.com/?spread_code=Hidemyacc",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "HIDEMYACC10",
+      "favorite": false,
+      "color_background": "#EAF0FD"
+    },
 
     {
       "id": "capsolver",
@@ -1314,6 +1378,22 @@
       "promo_code": "",
       "favorite": false,
       "color_background": "#B3B3B3"
+    },
+    {
+      "id": "SafePage Generator",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-SafePage-Generator.png",
+      "name": "SafePage Generator",
+      "description": "Campaign page generator for media buyers and affiliate teams to create landing pages, prelanders and multi-page campaign sites for different offers, GEOs and tests.",
+      "description_vi": "Công cụ tạo trang chiến dịch dành cho media buyer và đội ngũ affiliate, giúp tạo landing page, pre-lander và website chiến dịch nhiều trang để triển khai các offer, nhắm mục tiêu theo GEO và thử nghiệm các phương án khác nhau.",
+      "description_zh": "专为广告投手和联盟营销团队打造的广告活动页面生成器，可快速创建落地页、预落地页及多页面营销网站，满足不同推广 Offer、地理区域（GEO）定向和广告测试需求。",
+      "description_es": "Generador de páginas de campaña para media buyers y equipos de afiliación. Permite crear landing pages, prelanders y sitios web de varias páginas para promocionar distintas ofertas, segmentar por GEO y realizar pruebas de campañas.",
+      "description_ru": "Генератор страниц рекламных кампаний для медиабайеров и команд аффилиат-маркетинга. Позволяет создавать лендинги, прелендинги и многостраничные сайты для продвижения различных офферов, таргетинга по GEO и тестирования рекламных кампаний.",
+      "url": "https://topazinfo.com/",
+      "is_display": true,
+      "tag": "affiliate-network",
+      "promo_code": "",
+      "favorite": false,
+      "color_background": "#EEF9FF"
     }
   ]
 }
