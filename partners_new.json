@@ -558,7 +558,7 @@
       "tag": "vpn-proxy-service",
       "promo_code": "Hidemyacc",
       "favorite": false,
-      "color_background": "#EEE3B9"
+      "color_background": "#F4EAFE"
     },
     {
       "id": "SSLPrivateProxy",
@@ -1343,6 +1343,22 @@
       "promo_code": "HIDEMYACC",
       "favorite": false,
       "color_background": "#FDFFE8"
+    },
+    {
+      "id": "CatProxies",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-CatProxies.png",
+      "name": "CatProxies",
+      "description": "Real 4G/5G mobile, residential and private ISP proxies. 20M+ IPs in 195 countries, from $1.90/IP or $2.5/GB.",
+      "description_vi": "Proxy di động 4G/5G thật, proxy dân cư và proxy ISP riêng. Hơn 20 triệu IP tại 195 quốc gia, từ $1.90/IP hoặc $2.5/GB.",
+      "description_zh": "真实4G/5G移动代理、住宅代理和私有ISP代理。覆盖195个国家,拥有2000万+ IP,价格低至$1.90/IP或$2.5/GB。",
+      "description_es": "Proxies móviles 4G/5G reales, proxies residenciales y proxies ISP privados. Más de 20 millones de IP en 195 países, desde $1.90/IP o $2.5/GB",
+      "description_ru": "Реальные мобильные 4G/5G, резидентные и приватные ISP-прокси. Более 20 млн IP-адресов в 195 странах, от $1.90 за IP или $2.5 за ГБ.",
+      "url": "https://catproxies.com/?utm_source=hidemyacc&utm_medium=partner&utm_campaign=hidemyacc_partnerpage",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "HIDEMYACC15",
+      "favorite": false,
+      "color_background": "#F6FFEE"
     },
 
     {
