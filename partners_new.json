@@ -1488,6 +1488,102 @@
       "favorite": false,
       "color_background": "#F3F3FF"
     },
+    {
+      "id": "Roam Proxy",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-Roam-Proxy.png",
+      "name": "Roam Proxy",
+      "description": "Roam is a pay-as-you-go residential proxy network: $2 per GB, balance that never expires, no plans. Country, state and city targeting, sticky sessions from 10 to 120 minutes, HTTP and SOCKS5 on one port. Datacenter and 4G/5G mobile exits are available too, and dedicated US static IPs from $4 a month.",
+      "description_vi": "Roam là mạng proxy dân cư tính phí theo mức sử dụng thực tế: 2 USD/GB. Hỗ trợ nhắm mục tiêu theo quốc gia, bang và thành phố, cùng với phiên kết nối cố định (sticky session) từ 10 đến 120 phút. HTTP và SOCKS5 đều được hỗ trợ trên cùng một cổng. Ngoài ra còn có proxy datacenter và mạng di động 4G/5G.",
+      "description_zh": "Roam 是一个按量付费的住宅代理网络：每 GB 仅需 2 美元，账户余额永久有效，无需购买套餐。支持按国家、州和城市进行定位，提供 10 至 120 分钟的粘性会话（Sticky Session）。HTTP 和 SOCKS5 可通过同一端口使用。同时还提供数据中心代理以及 4G/5G 移动代理出口。此外，美国专用静态 IP 的价格低至每月 4 美元起。",
+      "description_es": "Roam ofrece proxies residenciales por 2 USD/GB, sin planes ni vencimiento. Incluye targeting geográfico, sesiones persistentes, HTTP/SOCKS5, proxies móviles 4G/5G y IPs estáticas en EE. UU. desde 4 USD/mes.",
+      "description_ru": "Roam предлагает резидентские прокси за 2 USD/ГБ без тарифов и срока действия баланса. Доступны геотаргетинг, sticky-сессии, HTTP/SOCKS5, мобильные 4G/5G прокси и статические IP в США от 4 USD/мес.",
+      "url": "https://roamproxy.com",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "",
+      "favorite": false,
+      "color_background": "#E7E8EA"
+    },
+    {
+      "id": "ipvolt",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-ipvolt.png",
+      "name": "ipvolt",
+      "description": "Dedicated mobile proxies on real carrier networks in 9 countries. Rotate IPs on demand. HTTP(S) and SOCKS5.",
+      "description_vi": "Proxy di động chuyên dụng trên mạng của các nhà mạng thật tại 9 quốc gia. Luân chuyển IP theo yêu cầu. Hỗ trợ HTTP(S) và SOCKS5.",
+      "description_zh": "基于 9 个国家真实运营商网络的专属移动代理。支持按需轮换 IP。兼容 HTTP(S) 和 SOCKS5。",
+      "description_es": "Proxies móviles dedicados en redes de operadores reales de 9 países. Rota las IP bajo demanda. Compatible con HTTP(S) y SOCKS5.",
+      "description_ru": "Выделенные мобильные прокси в сетях реальных операторов связи в 9 странах. Смена IP по запросу. Поддержка HTTP(S) и SOCKS5.",
+      "url": "https://ipvolt.com/?utm_source=hidemyacc&utm_medium=partner",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "",
+      "favorite": false,
+      "color_background": "#E7F6FF"
+    },
+    {
+      "id": "IPnivo",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-IPnivo.png",
+      "name": "IPnivo",
+      "description": "IPnivo offers affordable, clean residential and ISP proxies for web scraping, eCommerce, social media, and multi-account management. Choose rotating or static IPs with precise location targeting, stable sessions, and reliable connections to support data collection and account operations across global markets.",
+      "description_vi": "IPnivo cung cấp proxy residential và ISP sạch với giá hợp lý cho web scraping, eCommerce, mạng xã hội và quản lý nhiều tài khoản. Chọn IP xoay hoặc tĩnh với định vị chính xác, phiên ổn định và kết nối đáng tin cậy trên toàn cầu.",
+      "description_zh": "IPnivo 提供价格实惠、干净的住宅代理和 ISP 代理，适用于网页抓取、电商、社交媒体及多账号管理。支持轮换或静态 IP、精准定位、稳定会话和可靠连接，助力全球业务运营。",
+      "description_es": "IPnivo ofrece proxies residenciales e ISP limpios y asequibles para web scraping, eCommerce, redes sociales y gestión de múltiples cuentas. Elige IP rotativas o estáticas con geolocalización precisa, sesiones estables y conexiones fiables para operar en mercados globales.",
+      "description_ru": "IPnivo предлагает доступные чистые резидентские и ISP-прокси для веб-скрейпинга, электронной коммерции, социальных сетей и управления несколькими аккаунтами. Выбирайте ротационные или статические IP с точной геолокацией, стабильными сессиями и надежным подключением по всему миру.",
+      "url": "https://www.ipnivo.com/?utm_source=hidemyacc&utm_medium=partner&utm_campaign=partner_listing",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "",
+      "favorite": false,
+      "color_background": "#F7EEFF"
+    },
+    {
+      "id": "Node Proxy",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-Node-Proxy.png",
+      "name": "Node Proxy",
+      "description": "Node Proxy: residential and static proxies with about 30M IPs in 234 countries and territories. HTTP(S) and SOCKS5. Residential from $1.30/GB.",
+      "description_vi": "Node Proxy: Proxy residential và static với khoảng 30 triệu IP tại 234 quốc gia và vùng lãnh thổ. Hỗ trợ HTTP(S) và SOCKS5. Proxy residential từ $1,30/GB.",
+      "description_zh": "Node Proxy：提供住宅代理和静态代理，拥有约 3000 万个 IP，覆盖 234 个国家和地区。支持 HTTP(S) 和 SOCKS5。住宅代理价格低至 $1.30/GB。",
+      "description_es": "Node Proxy: Proxies residenciales y estáticos con aproximadamente 30 millones de IPs en 234 países y territorios. Compatible con HTTP(S) y SOCKS5. Proxies residenciales desde $1,30/GB.",
+      "description_ru": "Node Proxy: резидентские и статические прокси с примерно 30 млн IP в 234 странах и территориях. Поддержка HTTP(S) и SOCKS5. Резидентские прокси от $1,30/ГБ.",
+      "url": "https://node-proxy.com/?c=6B32T8",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "HIDEMYACC",
+      "favorite": false,
+      "color_background": "#E6FDFC"
+    },
+    {
+      "id": "FlashIP",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-FlashIP.png",
+      "name": "FlashIP",
+      "description": "FlashIP offers 90M+ residential IPs for web scraping, e-commerce, ad verification, and social media.",
+      "description_vi": "FlashIP cung cấp hơn 90 triệu IP dân cư (Residential IP) phục vụ thu thập dữ liệu web (web scraping), thương mại điện tử, xác minh quảng cáo và mạng xã hội.",
+      "description_zh": "FlashIP 提供超过 9000 万个住宅 IP，适用于网页数据采集、电子商务、广告验证和社交媒体。",
+      "description_es": "FlashIP ofrece más de 90 millones de IP residenciales para la extracción de datos web (web scraping), comercio electrónico, verificación de anuncios y redes sociales.",
+      "description_ru": "FlashIP предлагает более 90 миллионов резидентных IP-адресов для сбора данных в интернете (web scraping), электронной коммерции, проверки рекламы и социальных сетей.",
+      "url": "https://www.flashid.net/share/hidemyacc01",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "",
+      "favorite": false,
+      "color_background": "#F6EDFF"
+    },
+    {
+      "id": "ProxyLane",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-ProxyLane.png",
+      "name": "ProxyLane",
+      "description": "Residential proxies from 28M+ real devices. 98.7% of IPs rated low risk by Scamalytics.",
+      "description_vi": "Proxy dân cư từ hơn 28 triệu thiết bị thực. 98,7% địa chỉ IP được Scamalytics đánh giá có mức độ rủi ro thấp.",
+      "description_zh": "来自超过 2800 万台真实设备的住宅代理。98.7% 的 IP 地址被 Scamalytics 评定为低风险。",
+      "description_es": "Proxies residenciales de más de 28 millones de dispositivos reales. Scamalytics califica el 98,7 % de las IP como de bajo riesgo.",
+      "description_ru": "Резидентские прокси с более чем 28 млн реальных устройств. По оценке Scamalytics, 98,7% IP-адресов имеют низкий уровень риска.",
+      "url": "https://proxylane.dev/go/hidemyacc",
+      "is_display": true,
+      "tag": "vpn-proxy-service",
+      "promo_code": "HIDEMYACC20",
+      "favorite": false,
+      "color_background": "#E8E8E8"
+    },
 
     {
       "id": "capsolver",
@@ -1634,6 +1730,22 @@
       "favorite": false,
       "color_background": "#EFF6FB"
     },
+    {
+      "id": "SmsPva",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-SmsPva.png",
+      "name": "SmsPva",
+      "description": "Real SIM and virtual numbers in 60+ countries to receive SMS codes. API access, USDT and Bitcoin payments.",
+      "description_vi": "Số điện thoại SIM thật và số điện thoại ảo tại hơn 60 quốc gia để nhận mã xác minh SMS. Hỗ trợ API và thanh toán bằng USDT, Bitcoin",
+      "description_zh": "60多个国家/地区的真实SIM卡号码和虚拟号码，用于接收短信验证码。支持API接入，并可使用USDT和比特币付款。",
+      "description_es": "Números de SIM reales y virtuales en más de 60 países para recibir códigos SMS. Acceso mediante API y pagos con USDT y Bitcoin.",
+      "description_ru": "Реальные SIM-карты и виртуальные номера в более чем 60 странах для получения SMS-кодов подтверждения. Доступ через API, оплата в USDT и Bitcoin.",
+      "url": "https://smspva.com/link/hidemyacc",
+      "is_display": true,
+      "tag": "sms-verification-service",
+      "promo_code": "",
+      "favorite": false,
+      "color_background": "#ECF7FD"
+    },
 
     {
       "id": "Revenuelab",
@@ -1682,6 +1794,22 @@
       "promo_code": "HIDEMYACC",
       "favorite": false,
       "color_background": "#ECF2FC"
+    },
+    {
+      "id": "Tyver",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/partners/refs/heads/main/images/logo-Tyver.png",
+      "name": "Tyver",
+      "description": "Ad spy tool for Meta Ads. Find winning Facebook and Instagram creatives in 140+ countries.",
+      "description_vi": "Công cụ theo dõi quảng cáo Meta. Tìm kiếm các mẫu quảng cáo Facebook và Instagram hiệu quả tại hơn 140 quốc gia.",
+      "description_zh": "Meta广告间谍工具。在140多个国家/地区发现高转化的Facebook和Instagram广告创意。",
+      "description_es": "Herramienta de espionaje de anuncios de Meta. Encuentra creatividades ganadoras de Facebook e Instagram en más de 140 países.",
+      "description_ru": "Инструмент для анализа рекламы Meta. Находите эффективные рекламные креативы Facebook и Instagram в более чем 140 странах.",
+      "url": "https://tyver.io/?utm_source=partners&utm_medium=services&utm_campaign=hidemyacc&utm_content=partners-page",
+      "is_display": true,
+      "tag": "affiliate-network",
+      "promo_code": "HIDEMYACC",
+      "favorite": false,
+      "color_background": "#FCFEEE"
     }
   ]
 }
